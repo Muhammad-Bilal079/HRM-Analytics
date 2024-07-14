@@ -1,0 +1,19 @@
+{
+    "descriptiveData": [
+      { "id": 1, "name": "bilal", "department": "HR", "salary": 50000,"turnover":"55%"},
+      { "id": 2, "name": "ahmed", "department": "Engineering", "salary": 70000 },
+      { "id": 3, "name": "hamza", "department": "management", "salary": 65000},
+      { "id": 4, "name": "usman", "department": "technical-inc", "salary": 90000 },
+      { "id": 5, "name": "asad", "department": "PA", "salary": 35000 },
+      { "id": 6, "name": "sufyan", "department": "IT", "salary": 60000 ,"turnover":"73%"},
+      { "id": 7, "name": "wasay", "department": "sales", "salary": 48000,"turnover":"63%" },
+      { "id": 8, "name": "aliyan", "department": "audit", "salary": 40000 }
+    ],
+    "applications": [
+      { "id": 1, "position": "Software Engineer", "applicant": "Bilal" },
+      { "id": 2, "position": "Product Manager", "applicant": "sufyan" },
+      { "id": 2, "position": "Product Manager", "applicant": "muzammil" },
+      { "id": 2, "position": "Product Manager", "applicant": "ali" }
+    ]
+  }
+  

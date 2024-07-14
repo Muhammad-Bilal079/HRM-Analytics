@@ -1,0 +1,13 @@
+{
+    "descriptiveData": [
+      { "id": 1, "name": "Q1", "turnoverRate": 10, "averageSalary": 50000 },
+      { "id": 2, "name": "Q2", "turnoverRate": 15, "averageSalary": 52000 },
+      { "id": 3, "name": "Q3", "turnoverRate": 8, "averageSalary": 53000 },
+      { "id": 4, "name": "Q4", "turnoverRate": 12, "averageSalary": 54000 }
+    ],
+    "applications": [
+      { "id": 1, "name": "John Doe", "position": "Software Engineer", "status": "Pending" },
+      { "id": 2, "name": "Jane Smith", "position": "Product Manager", "status": "Pending" }
+    ]
+  }
+  
